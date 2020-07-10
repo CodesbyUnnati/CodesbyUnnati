@@ -1,22 +1,20 @@
 ### Hi there 👋
 
-**CodesbyUnnati/CodesbyUnnati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
- 🔭 I’m currently working on ...
+ 🔭 I’m currently working on Web Development
  <br>
- 🌱 I’m currently learning ...
+ 🌱 I’m currently learning  how to maker round chapaatis
  <br>
- 👯 I’m looking to collaborate on ...
+ 👯 I’m looking to collaborate on Open Source Projects
  <br>
- 🤔 I’m looking for help with ...
+ 🤔 I’m looking for help with FireBase
  <br>
- 💬 Ask me about ...
  <br>
- 📫 How to reach me: ...
+ 📫 How to reach me: 
  <br>
- 😄 Pronouns: ...
- <br>
- ⚡ Fun fact: ...
+
+ ⚡ Fun fact: ...I am a Night Owl🦉
 
