@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-
-
-Here are some ideas to get you started:
-
  🔭 I’m currently working on Web Development
  <br>
  🌱 I’m currently learning  how to maker round chapaatis
