@@ -27,7 +27,7 @@
         <span><b>GreenSock</b></span><br><br><br>
         <img height="64px"   <td width="25%" align="center">
         <span><b>GreenSock</b></span><br><br><br>
-        <img height="64px" src="https://i.ibb.co/6rD3Vm5/greensock.png" alt="greensock" border="0">
+        <img height="64px"src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/github.png" alt="github logo" width="34"> 
       </td>
       </td>
     </tr>
