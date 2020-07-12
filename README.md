@@ -20,8 +20,8 @@
         <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
       </td>
       <td width="25%" align="center">
-        <span>𝗩𝘂𝗲</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/vue.svg">
+        <span>GreenSock</span><br><br><br>
+        <img height="64px" src="https://i.ibb.co/6rD3Vm5/greensock.png" alt="greensock" border="0">
       </td>
     </tr>
   
