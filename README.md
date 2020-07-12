@@ -38,16 +38,12 @@
    ![Unnati's github stats](https://github-readme-stats.vercel.app/api?username=CodesbyUnnati&show_icons=true&hide_border=true)
 
 <br>
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.1/css/all.min.css" integrity="sha512-xA6Hp6oezhjd6LiLZynuukm80f8BoZ3OpcEYaqKoCV3HKQDrYjDE1Gu8ocxgxoXmwmSzM4iqPvCsOkQNiu41GA==" crossorigin="anonymous" />
 
   <a href="https://www.linkedin.com/in/pingunnatimishra">
     <img align="left" alt="Unnati Mishra | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
   </a>
   <a href="https://twitter.com/ping_unnati?lang=en">
     <img align="left" alt="Unnati Mishra | Twitter" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" />
-  </a>
-    <a href="https://codepen.io/unnatimishra?__cf_chl_jschl_tk__=cc53c62f313d6916bae412acc56fbe360d92e557-1592239647-0-AT2-XD4FuBDBC_f_BEWlxAxUE51HHUH5jwzwwX4b8hDGIR27aMKGrFiNaX65TI-deh_KWX0QWkZ0_UuPkn8pO_2TdTiu-ePOg-aQZRKbfJ5_CLq0NWEdlhXPPVD6QLKwXNgWRrS-djSdzHgcDYtaP">
-   <i class="fab fa-codepen"></i>
   </a>
   <a href="https://www.instagram.com/thecssgirl/">
     <img align="left" alt="Unnati Mishra | Instagram" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" />
