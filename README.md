@@ -1,6 +1,6 @@
 # 𝗛𝗲𝗹𝗹𝗼! 𝗜'𝗺  Unnati☺️
 
-𝑰 ❤️ 𝑭𝒓𝒐𝒏𝒕-𝒆𝒏𝒅 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕!
+I ❤️ FrontEnd Web Development!
 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
