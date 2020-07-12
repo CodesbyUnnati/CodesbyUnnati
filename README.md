@@ -20,8 +20,15 @@
         <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
       </td>
       <td width="25%" align="center">
-        <span>GreenSock</span><br><br><br>
+        <span><b>GreenSock</b></span><br><br><br>
         <img height="64px" src="https://i.ibb.co/6rD3Vm5/greensock.png" alt="greensock" border="0">
+      </td>
+         <td width="25%" align="center">
+        <span><b>GreenSock</b></span><br><br><br>
+        <img height="64px"   <td width="25%" align="center">
+        <span><b>GreenSock</b></span><br><br><br>
+        <img height="64px" src="https://i.ibb.co/6rD3Vm5/greensock.png" alt="greensock" border="0">
+      </td>
       </td>
     </tr>
   
