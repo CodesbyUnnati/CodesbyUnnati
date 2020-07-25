@@ -54,4 +54,4 @@ I ❤️ FrontEnd Web Development!
 
 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=CodesbyUnnati.CodesbyUnnati)
+![](https://komarev.com/ghpvc/?username=CodesbyUnnati&color=dc143c)
