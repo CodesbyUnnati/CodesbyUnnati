@@ -1,6 +1,6 @@
 # 𝗛𝗲𝗹𝗹𝗼! 𝗜'𝗺  Unnati☺️
 
-<video controls autoplay>
+<video controls width="600" height="500" loop autoplay>
   <source src="https://drive.google.com/file/d/1dfpcCTO2O7Er1xIlceE6gn-JpxNNKO5s/view?usp=sharing" type="video/mp4">
  
 </video>
