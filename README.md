@@ -13,15 +13,15 @@ I ❤️ FrontEnd Web Development!
   <tbody>
     <tr valign="top">
       <td width="25%" align="center">
-        <span>HTML5</span><br><br><br>
+        <span><b>HTML5</b></span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
       </td>
       <td width="25%" align="center">
-        <span>CSS3</span><br><br><br>
+        <span><b>CSS3</b></span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
       </td>
       <td width="25%" align="center">
-        <span>JavaScript</span><br><br><br>
+        <span><b>JavaScript</b></span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
       </td>
       <td width="25%" align="center">
