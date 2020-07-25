@@ -41,8 +41,7 @@ I ❤️ FrontEnd Web Development!
    
    <br>
     <br>
-  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
-    
+ ![Unnati's github stats](https://github-readme-stats.vercel.app/api?username=CodesbyUnnati&show_icons=true&theme=radical)
     
    
    ![Unnati's github stats](https://github-readme-stats.vercel.app/api?username=CodesbyUnnati&show_icons=true&hide_border=true)
