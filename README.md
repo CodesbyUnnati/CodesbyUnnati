@@ -12,6 +12,7 @@
   <a href="https://twitter.com/ping_Unnati"><img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
     <a href="mailto:unnaticse2019@gmail.com"><img alt="Gmail" title="Mail" src="https://img.shields.io/badge/-Gmail-F0F6FC?style=for-the-badge&logo=gmail&logoColor=#EA4335"/></a>
 
+![](https://komarev.com/ghpvc/?username=CodesbyUnnati&color=dc143c)
 </p>
 
 
@@ -56,6 +57,3 @@
  
 
 
-
-
-![](https://komarev.com/ghpvc/?username=CodesbyUnnati&color=dc143c)
