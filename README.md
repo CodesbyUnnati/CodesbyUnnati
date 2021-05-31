@@ -5,8 +5,9 @@
 
 <h2 align="center">I'm Unnati Mishra <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h2>
 
-
-<img align="right" width=100px alt="Star" src="https://media.giphy.com/media/xUPGcdJJcjnSIjqFHi/giphy.gif" />
+<br>
+<br>
+<img align="right" width=150px alt="Star" src="https://media.giphy.com/media/xUPGcdJJcjnSIjqFHi/giphy.gif" />
 
 
 
