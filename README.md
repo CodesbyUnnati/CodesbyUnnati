@@ -10,6 +10,7 @@
 <a href="https://www.youtube.com/channel/UCJc_dEGuGABM1Gg8UD8T1pw"><img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/pingunnatimishra"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://twitter.com/ping_Unnati"><img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+    <a href="mailto:unnaticse2019@gmail.com"><img alt="Gmail" title="Mail" src="https://img.shields.io/badge/-Gmail-1DA1F2?style=for-the-badge&logo=gmail&logoColor=red"/></a>
 
 </p>
 
@@ -53,11 +54,7 @@
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Unnati's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodesbyUnnati&langs_count=10&layout=compact#" /></a>
   <br/>
  
-  
 
-  <a href="mailto:unnaticse2019@gmail.com">
-    <img align="left" alt="Unnati Mishra | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
-  </a>
 
 
 
