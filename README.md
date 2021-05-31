@@ -6,6 +6,22 @@
 <h2>I'm Unnati Mishra <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h2>
 
 
+<img align="right" width=300px alt="Star" src="https://media.giphy.com/media/xUPGcdJJcjnSIjqFHi/giphy.gif" />
+
+
+
+## 📖 About me
+
+* 💻 I'm a self-taught web developer
+* 🎓 I'm a Computer Science student
+* 🌐 You can see some of my projects [here](https://webfolio-unnati.netlify.app/)
+* 📺 I make programming videos on [YouTube](https://www.youtube.com/channel/UCJc_dEGuGABM1Gg8UD8T1pw)
+* 💃 If I'm not coding then you'll find me dancing 
+
+
+
+
+
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
 <table>
