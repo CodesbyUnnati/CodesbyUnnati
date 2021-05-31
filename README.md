@@ -1,14 +1,10 @@
 
 
-<img align="center" src="https://media.giphy.com/media/26gslMAdctNhu6YnK/giphy.gif">
+<img src="https://media.giphy.com/media/26gslMAdctNhu6YnK/giphy.gif">
 <!--![ezgif com-video-to-gif](https://media.giphy.com/media/26gslMAdctNhu6YnK/giphy.gif)-->
 
-<h3 align="center">I'm Unnati Mishra <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h3>
+<h2>I'm Unnati Mishra <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h2>
 
-
-
-<h2>I'm Unnati Mishra</h2>
-I ❤️ FrontEnd Web Development!
 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
