@@ -5,13 +5,11 @@
 
 <h2 align="center">I'm Unnati Mishra <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h2>
 
-<br>
-<br>
-<img align="right" width=150px alt="Star" src="https://media.giphy.com/media/xUPGcdJJcjnSIjqFHi/giphy.gif" />
 
 
 
-## 📖 About me
+
+## ![ezgif com-video-to-gif](https://media.giphy.com/media/xUPGcdJJcjnSIjqFHi/giphy.gif) About me
 
 * 💻 I'm a self-taught web developer
 * 🎓 I'm a Computer Science student
