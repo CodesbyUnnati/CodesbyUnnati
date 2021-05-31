@@ -52,18 +52,9 @@
   <br/>
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Unnati's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodesbyUnnati&langs_count=10&layout=compact#" /></a>
   <br/>
-  <b>Note:</b> This chart is only a metric of which languages my public code on GitHub consists of and does not reflect my experience or skill level.
+ 
   
-  
-  <a href="https://www.linkedin.com/in/pingunnatimishra">
-    <img align="left" alt="Unnati Mishra | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
-  </a>
-  <a href="https://twitter.com/ping_unnati?lang=en">
-    <img align="left" alt="Unnati Mishra | Twitter" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" />
-  </a>
-  <a href="https://www.instagram.com/thecssgirl/">
-    <img align="left" alt="Unnati Mishra | Instagram" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" />
-  </a>
+
   <a href="mailto:unnaticse2019@gmail.com">
     <img align="left" alt="Unnati Mishra | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
   </a>
