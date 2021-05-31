@@ -1,6 +1,6 @@
 
 
-<a href="#"><img width="100%" height="auto" src="https://media.giphy.com/media/26gslMAdctNhu6YnK/giphy.gif" height="175px"/></a>
+<a href="#"><img src="https://media.giphy.com/media/26gslMAdctNhu6YnK/giphy.gif"/></a>
 <!--![ezgif com-video-to-gif](https://media.giphy.com/media/26gslMAdctNhu6YnK/giphy.gif)-->
 
 <h3 align="center">I'm Unnati Mishra <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h3>
