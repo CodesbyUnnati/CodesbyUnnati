@@ -3,7 +3,7 @@
 <img src="https://media.giphy.com/media/26gslMAdctNhu6YnK/giphy.gif">
 <!--![ezgif com-video-to-gif](https://media.giphy.com/media/26gslMAdctNhu6YnK/giphy.gif)-->
 
-<h2>I'm Unnati Mishra <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h2>
+<h2 align:"center">I'm Unnati Mishra <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h2>
 
 
 <img align="right" width=100px alt="Star" src="https://media.giphy.com/media/xUPGcdJJcjnSIjqFHi/giphy.gif" />
