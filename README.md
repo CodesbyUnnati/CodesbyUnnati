@@ -9,7 +9,7 @@
 
 
 
-## ![ezgif com-video-to-gif](https://media.giphy.com/media/xUPGcdJJcjnSIjqFHi/giphy.gif) About me
+## <img src="https://media.giphy.com/media/xUPGcdJJcjnSIjqFHi/giphy.gif" width="30px">&nbsp; About me
 
 * 💻 I'm a self-taught web developer
 * 🎓 I'm a Computer Science student
