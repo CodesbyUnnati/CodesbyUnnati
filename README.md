@@ -43,21 +43,18 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
 
-## 🔥 My contribution streak
-
-<p align="center">
-  
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1#version3"/>
-</p>
-
-<h3 align="center">Click to see <a href="https://github.com/CodesbyUnnati?tab=repositories">my repos</a>! ⭐ Stars are appreciated!</h3>
-
 
    
    ![Unnati's github stats](https://github-readme-stats.vercel.app/api?username=CodesbyUnnati&show_icons=true&hide_border=true)
 
 <br>
-
+ <summary>💻 Most used languages</summary>
+  <br/>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Unnati's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodesbyUnnati&langs_count=10&layout=compact#" /></a>
+  <br/>
+  <b>Note:</b> This chart is only a metric of which languages my public code on GitHub consists of and does not reflect my experience or skill level.
+  
+  
   <a href="https://www.linkedin.com/in/pingunnatimishra">
     <img align="left" alt="Unnati Mishra | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
   </a>
