@@ -19,7 +19,7 @@
 
 ## <img src="https://media.giphy.com/media/xUPGcdJJcjnSIjqFHi/giphy.gif" width="30px">&nbsp; About me
 
-* ❤ I love Open Source
+* ❤ I love Open Source.
 * 💻 I'm a self-taught web developer
 * 🎓 I'm a Computer Science student
 * 🌐 You can see some of my projects [here](https://webfolio-unnati.netlify.app/)
