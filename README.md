@@ -1,8 +1,7 @@
 
 <!--![ezgif com-video-to-gif](https://media.giphy.com/media/26gslMAdctNhu6YnK/giphy.gif)-->
 
-
-<img src="https://media.giphy.com/media/26gslMAdctNhu6YnK/giphy.gif">
+<a href="https://ibb.co/fNCGRkx"><img src="https://i.ibb.co/fNCGRkx/Copy-of-My-Twitter-Header-Pro.png" alt="Copy-of-My-Twitter-Header-Pro" border="0"></a>
 <h2 align="center">I'm <a href="https://linktr.ee/Ping_Unnati">Unnati Mishra</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h2>
 
 <p align="center">
