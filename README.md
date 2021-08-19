@@ -3,7 +3,7 @@
 <!-- ![Alt Text](https://media.giphy.com/media/Zj8HSmFyVwHvPYHYWK/giphy.gif) -->
 <img src="https://media.giphy.com/media/Zj8HSmFyVwHvPYHYWK/giphy.gif" width="980" >
 
-<h2 align="center">I'm <a href="https://linktr.ee/Ping_Unnati">Unnati Mishra</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h2>
+<h2 align="center">I'm <a href="https://bio.link/unnati">Unnati Mishra</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h2>
 
 <p align="center">
   
