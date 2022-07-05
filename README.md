@@ -16,8 +16,7 @@
 </p>
 
 
-
-## <img src="https://media.giphy.com/media/xUPGcdJJcjnSIjqFHi/giphy.gif" width="10px">&nbsp;  About me
+  About me
 
 * ❤ I love Open Source
 * 💻 I'm a self-taught web developer
