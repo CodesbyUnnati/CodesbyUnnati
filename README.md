@@ -1,7 +1,7 @@
 
 <!--![ezgif com-video-to-gif](https://media.giphy.com/media/26gslMAdctNhu6YnK/giphy.gif)-->
 <!-- ![Alt Text](https://media.giphy.com/media/Zj8HSmFyVwHvPYHYWK/giphy.gif) -->
-<img src="https://media.giphy.com/media/Zj8HSmFyVwHvPYHYWK/giphy.gif" width="950" >
+<img src="https://media.giphy.com/media/Zj8HSmFyVwHvPYHYWK/giphy.gif" width="900" >
 
 <h2 align="center">I'm <a href="https://bio.link/unnati">Unnati Mishra</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h2>
 
