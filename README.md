@@ -19,7 +19,7 @@
   About me
 
 * ❤ I love Open Source
-* 💻 I'm a self-taught web developer
+* 💻 I work as a Platform Engineer at VMware by Broadcom
 * 🎓 I'm a Computer Science student
 * 🌐 You can see some of my projects [here](https://webfolio-unnati.netlify.app/)
 * 📺 I make programming videos on [YouTube](https://www.youtube.com/channel/UCJc_dEGuGABM1Gg8UD8T1pw)
