@@ -22,7 +22,7 @@
 * 💻 I work as a Platform Engineer at VMware by Broadcom
 * 🎓 I'm a Computer Science graduate
 * 🌐 You can see some of my old projects [here](https://webfolio-unnati.netlify.app/)
-* 📺 I make programming videos on [YouTube](https://www.youtube.com/channel/UCJc_dEGuGABM1Gg8UD8T1pw)
+* 📺 Youtube Channel [YouTube](https://www.youtube.com/channel/UCJc_dEGuGABM1Gg8UD8T1pw)
 * 💃 If I'm not coding then you'll find me dancing 
 
 
