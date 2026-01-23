@@ -19,7 +19,7 @@
   About me
 
 * ❤ I love Open Source
-* 💻 I work as a Platform Engineer at VMware by Broadcom
+* 💻 I work as a Platform Engineer at Broadcom(VMware).
 * 🎓 I'm a Computer Science graduate
 * 🌐 You can see some of my old projects [here](https://webfolio-unnati.netlify.app/)
 * 📺 Youtube Channel [YouTube](https://www.youtube.com/channel/UCJc_dEGuGABM1Gg8UD8T1pw)
