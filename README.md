@@ -15,16 +15,18 @@
 ![](https://komarev.com/ghpvc/?username=CodesbyUnnati&color=dc143c)
 </p>
 
+## ☁️ About Me
 
-  About me
+I am a **Cloud Native & Platform Engineer** dedicated to improving the developer experience and Kubernetes ecosystems. Currently, I am an active contributor to the **Carvel** suite, where I help build reliable tools for application deployment.
 
-* ❤ I love Open Source
-* 💻 I work as a Platform Engineer at Broadcom(VMware).
-* 🎓 I'm a Computer Science graduate
-* 🌐 You can see some of my old projects [here](https://webfolio-unnati.netlify.app/)
+### 🏗️ What I’m Working On
+* **Kubernetes Tooling:** Contributing to Carvel suite to streamline cloud-native workflows.
+* **Platform Security:** Identifying and patching CVEs to ensure robust production environments.
+
 * 📺 Youtube Channel [YouTube](https://www.youtube.com/channel/UCJc_dEGuGABM1Gg8UD8T1pw)
 * 💃 If I'm not coding then you'll find me dancing 
-
+---
+"Building the platforms that power the next generation of applications." 🚀
 
 ### 🛠 &nbsp;Tech Stack
 
