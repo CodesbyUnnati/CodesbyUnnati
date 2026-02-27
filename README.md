@@ -48,9 +48,6 @@ I am a **Cloud Native & Platform Engineer** dedicated to improving the developer
 ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
 
 
-   
-   ![Unnati's github stats](https://github-readme-stats.vercel.app/api?username=CodesbyUnnati&show_icons=true&hide_border=true)
-
 <br>
  <summary>💻 Most used languages</summary>
   <br/>
