@@ -17,7 +17,7 @@
 
 ## ☁️ About Me
 
-I am a **Cloud Native & Platform Engineer** dedicated to improving the developer experience and Kubernetes ecosystems. Currently, I am an active contributor to the **Carvel** suite, where I help build reliable tools for application deployment.
+I am a **Cloud Native Platform Engineer** dedicated to improving the developer experience and Kubernetes ecosystems. Currently, I am an active contributor to the **Carvel** suite, where I help build reliable tools for application deployment.
 
 ### 🏗️ What I’m Working On
 * **Kubernetes Tooling:** Contributing to Carvel suite to streamline cloud-native workflows.
